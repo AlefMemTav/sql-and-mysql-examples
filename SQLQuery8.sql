@@ -1,3 +1,3 @@
 SELECT *
-FROM person.Person
+FROM Person.Person
 ORDER BY FirstName asc
